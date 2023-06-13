@@ -245,8 +245,8 @@ footer {
         border-image: url("../img/Asset-10.png") .1%;
 
         border-radius: 2px;
-        height: 220px;
-        width: 360px;
+        height: 205px;
+        width: 340px;
         margin-top: 24px;
     }
 
@@ -366,7 +366,7 @@ footer {
     }
 
     #rez {
-        height: 35px;
+        height: 45px;
         min-width: 280px;
         /* font-family: arcade; */
         font-size: 20px;
