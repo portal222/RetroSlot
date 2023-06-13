@@ -372,7 +372,7 @@ $(document).ready(function () {
                             fontSize: "15px"
                         }, 1200);
                         $("#rez").animate({
-                            fontSize: "30px"
+                            fontSize: "22px"
                         }, 400);
 
                     }, 700);
