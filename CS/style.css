@@ -295,14 +295,14 @@ footer {
 
     .pokret .stoji {
         height: 6px;
-        width: 770px;
+        width: 800px;
         background-color: transparent;
         border-bottom: dotted 10px orange;
     }
 
     .pokret .tacke {
         top: 8px;
-        width: 770px;
+        width: 800px;
         display: block;
         position: absolute;
         border-bottom: 10px dotted;
@@ -311,7 +311,7 @@ footer {
 
     .pokret .tacke2 {
         top: 8px;
-        width: 770px;
+        width: 800px;
         display: block;
         position: absolute;
         border-bottom: 10px dotted;
@@ -366,9 +366,8 @@ footer {
     }
 
     #rez {
-        height: 45px;
+        height: 60px;
         min-width: 280px;
-        /* font-family: arcade; */
         font-size: 20px;
 
 
@@ -382,8 +381,8 @@ footer {
 
     }
     footer {
-        background-color: rgba(200, 243, 228, 0.294);
-        color: blue;
+       
+        color: rgb(56, 38, 38);
     }
 
 

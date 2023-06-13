@@ -93,13 +93,13 @@ $(document).ready(function () {
                 if (rand1 == 2 && rand2 == 2 && rand3 == 2) {
 
                     $("#prvi").animate({
-                        top: "9px"
+                        top: "2px"
                     });
                     $("#drugi").animate({
-                        top: "9px"
+                        top: "2px"
                     });
                     $("#treci").animate({
-                        top: "9px"
+                        top: "2px"
                     });
 
                     //odlaganje animacije, zvuka i teksta da bi se poklopilo sa zaustavjanjem tocka
@@ -151,13 +151,13 @@ $(document).ready(function () {
                 } else if (rand1 == 1 && rand2 == 1 && rand3 == 1) {
 
                     $("#prvi").animate({
-                        top: "9px"
+                        top: "2px"
                     });
                     $("#drugi").animate({
-                        top: "9px"
+                        top: "2px"
                     });
                     $("#treci").animate({
-                        top: "9px"
+                        top: "2px"
                     });
 
                     setTimeout(function () {
@@ -201,13 +201,13 @@ $(document).ready(function () {
                 } else if (rand1 == rand2 && rand2 == rand3) {
 
                     $("#prvi").animate({
-                        top: "9px"
+                        top: "2px"
                     });
                     $("#drugi").animate({
-                        top: "9px"
+                        top: "2px"
                     });
                     $("#treci").animate({
-                        top: "9px"
+                        top: "2px"
                     });
 
 
@@ -248,13 +248,13 @@ $(document).ready(function () {
                 } else if (rand1 == 2 && rand2 == 2 && rand3 != rand1) {
 
                     $("#prvi").animate({
-                        top: "9px"
+                        top: "2px"
                     });
                     $("#drugi").animate({
-                        top: "9px"
+                        top: "2px"
                     });
                     $("#treci").animate({
-                        top: "9px"
+                        top: "2px"
                     });
 
 
@@ -302,13 +302,13 @@ $(document).ready(function () {
 
 
                     $("#prvi").animate({
-                        top: "9px"
+                        top: "2px"
                     });
                     $("#drugi").animate({
-                        top: "9px"
+                        top: "2px"
                     });
                     $("#treci").animate({
-                        top: "9px"
+                        top: "2px"
                     });
 
                     setTimeout(function () {
@@ -347,13 +347,13 @@ $(document).ready(function () {
                 } else {
 
                     $("#prvi").animate({
-                        top: "9px"
+                        top: "2px"
                     });
                     $("#drugi").animate({
-                        top: "9px"
+                        top: "2px"
                     });
                     $("#treci").animate({
-                        top: "9px"
+                        top: "2px"
                     });
 
 
@@ -390,13 +390,13 @@ $(document).ready(function () {
             $("#rez").html("Kraj igre!");
 
             $("#prvi").animate({
-                top: "9px"
+                top: "2px"
             });
             $("#drugi").animate({
-                top: "9px"
+                top: "2px"
             });
             $("#treci").animate({
-                top: "9px"
+                top: "2px"
             });
 
             $("#spin").attr("disabled", "true");
