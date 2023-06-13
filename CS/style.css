@@ -234,14 +234,15 @@ footer {
 
 @media screen and (max-width: 500px) {
     .wrapper {
+        margin: auto;
         width: 400px;
-        height: 600px;
+        height: 550px;
         border: 3px solid;
         font-size: 14px;
     }
 
     .meni {
-        border: solid 3px transparent;
+        border: solid 4px transparent;
         border-image: url("../img/Asset-10.png") .1%;
 
         border-radius: 2px;
@@ -382,7 +383,7 @@ footer {
     }
     footer {
        
-        color: rgb(56, 38, 38);
+        color: rgb(221, 178, 125);
     }
 
 
