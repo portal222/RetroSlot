@@ -283,10 +283,10 @@ footer {
 } */
     #staklo {
         position: relative;
-        top: -85px;
+        top: -80px;
         /* height: auto; */
         height: 80px;
-        width: 240px;
+        width: 230px;
     }
 
     .pokret {
@@ -305,14 +305,14 @@ footer {
 
     .pokret .stoji {
         height: 6px;
-        width: 800px;
+        width: 770px;
         background-color: transparent;
         border-bottom: dotted 10px orange;
     }
 
     .pokret .tacke {
         top: 8px;
-        width: 800px;
+        width: 770px;
         display: block;
         position: absolute;
         border-bottom: 10px dotted;
@@ -321,7 +321,7 @@ footer {
 
     .pokret .tacke2 {
         top: 8px;
-        width: 800px;
+        width: 770px;
         display: block;
         position: absolute;
         border-bottom: 10px dotted;
@@ -377,7 +377,7 @@ footer {
 
     #rez {
         height: 35px;
-        min-width: 300px;
+        min-width: 280px;
         /* font-family: arcade; */
         font-size: 20px;
 
