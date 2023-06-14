@@ -9,7 +9,7 @@ $(document).ready(function () {
 
 
     //Manje slika za vecu verovatnocu pogotka
-    // var slike = [img/tresnja_beli_rub.png", "img/detelina_beli_rub.png", "img/dijamant_beli_rub.png"];
+    // var slike = ["img/tresnja_beli_rub.png", "img/detelina_beli_rub.png", "img/dijamant_beli_rub.png"];
 
     var slike = ["img/tresnja_beli_rub.png", "img/detelina_beli_rub.png", "img/dijamant_beli_rub.png", "img/limun_beli_rub.png",
         "img/narandza_beli_rub.png", "img/lubenica_beli_rub.png", "img/jagoda_beli_rub.png"];
@@ -137,13 +137,13 @@ $(document).ready(function () {
                             fontSize: "10px"
                         }, 100);
                         $("#rez").animate({
-                            fontSize: "30px"
+                            fontSize: "28px"
                         }, 600);
                         $("#rez").animate({
                             fontSize: "18px"
                         }, 200);
                         $("#rez").animate({
-                            fontSize: "30px"
+                            fontSize: "28px"
                         }, 700);
 
                     }, 700);
@@ -290,6 +290,10 @@ $(document).ready(function () {
                         $("#rez").animate({
                             fontSize: "18px"
                         }, 300);
+                        $("#rez").animate({
+                            fontSize: "28px"
+                        }, 600);
+
 
                     }, 700);
 
@@ -372,7 +376,7 @@ $(document).ready(function () {
                             fontSize: "15px"
                         }, 1200);
                         $("#rez").animate({
-                            fontSize: "22px"
+                            fontSize: "23px"
                         }, 400);
 
                     }, 700);

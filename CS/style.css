@@ -9,7 +9,7 @@ body {
     display: flex;
     flex-direction: column;
     width: 600px;
-    height: 700px;
+    height: 730px;
     text-align: center;
     align-items: center;
     background-image: url("../img/Field_of_Gold.jpg");
@@ -21,12 +21,12 @@ body {
 }
 
 .meni {
-    background-image: url("../img/meni.jpg");
+    background-image: url("../img/meni.png");
     background-size: cover;
     border: solid 5px transparent;
     border-image: url("../img/Asset-10.png") .1%;
     border-radius: 5px;
-    height: 268px;
+    height: 265px;
     width: 430px;
     margin-top: 15px;
 }
@@ -228,21 +228,22 @@ img {
 
 
 footer {
-    color: gray;
+    color: #b39265;
     font-size: 14px;
 }
 
 @media screen and (max-width: 500px) {
     .wrapper {
-        margin: auto;
+        margin-left: 10px;
         width: 400px;
-        height: 550px;
-        border: 3px solid;
+        height: 600px;
+        border: 2px solid transparent;
+       
         font-size: 14px;
     }
 
     .meni {
-        border: solid 4px transparent;
+        border: solid 3px transparent;
         border-image: url("../img/Asset-10.png") .1%;
 
         border-radius: 2px;
@@ -383,7 +384,7 @@ footer {
     }
     footer {
        
-        color: rgb(221, 178, 125);
+        color: #b39265;
     }
 
 
