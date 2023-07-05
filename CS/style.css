@@ -326,24 +326,28 @@ footer {
     }
 
     .dugmad {
+        margin-top: 10px;
         display: flex;
         width: 370px;
+        height:85px;
+        /* background-color: aqua; */
 
     }
 
     #nova {
-        width: 120px;
-        height: 75px;
-        font-size: 12px;
-        padding-bottom: 10px;
+        width: 100px;
+        height: 60px;
+        font-size: 10px;
+        padding-bottom: 8px;
+        /* background-color: #007531; */
 
     }
 
     #spin {
-        width: 120px;
-        height: 75px;
+        width: 100px;
+        height: 60px;
         font-size: 12px;
-        padding-bottom: 10px;
+        padding-bottom: 6px;
 
     }
 
@@ -385,6 +389,7 @@ footer {
     footer {
        
         color: #b39265;
+   
     }
 
 
