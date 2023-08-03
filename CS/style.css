@@ -201,6 +201,11 @@ img {
     color: rgb(66, 215, 253);
 }
 
+#nova:active {
+   
+    color: rgb(71, 71, 218);
+}
+
 #spin {
     width: 185px;
     height: 102px;
@@ -218,6 +223,10 @@ img {
 #spin:hover {
     background-image: url("../img/zavrti_ON.png");
     color: rgb(255, 143, 143);
+}
+
+#spin:active {
+    color: rgb(161, 72, 72);
 }
 
 #spin:disabled {
